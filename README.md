@@ -16,7 +16,7 @@ Resulting in the following output:\
 
 1. Clone this repository
 2. Go to the cloned repository and compile the program using `make` command
-3. Run the following command with adjusted data
+3. Run the following command with adjusted data\
    `./epidemic-modelling --real-data data.csv --infectious_days 8 --infections_per_day 0.3 --output chart.html`
 
 ### Notes
