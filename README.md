@@ -9,7 +9,7 @@ This program allows you to visualize the process of a disease and its comparison
 - `--infections_per_day <float value>`
 - `--output <path to the output file location including the type>` (for example chart.html)
 
-Resulting in the following output:
+Resulting in the following output:\
 ![output chart](https://github.com/skokcmd/Epidemiologic-simulation/blob/main/dummy_output.png?raw=true)
 
 ## How to use
